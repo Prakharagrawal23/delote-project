@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Introduction to Login and Sign-Up Page Using React, Vite, Node.js, Express, Nodemon, and Mongoose
 
 Building a Login and Sign-Up page is a fundamental part of creating modern web applications, where user authentication is crucial for accessing personalized and secure features. In this project, we will create a Login and Sign-Up page using a modern full-stack JavaScript approach, involving React (with Vite) for the frontend, Node.js with Express for the backend, and MongoDB (with Mongoose) for the database. This setup will allow us to efficiently handle user authentication with clean, scalable, and responsive code.
