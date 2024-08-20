@@ -27,4 +27,3 @@ Building a Login and Sign-Up page is a fundamental part of creating modern web a
 ### Login Page:
 1. The user provides their email and password.
 2. The backend will authenticate the user by comparing the hashed password stored in the database with the password provided during login.
->>>>>>> 5f17c37 (second commit)
